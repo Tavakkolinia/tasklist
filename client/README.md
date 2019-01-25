@@ -1,3 +1,10 @@
+Tasklist test project with Create React App and Redux
+still in progress...
+
+![tasklist](https://user-images.githubusercontent.com/27547727/51747286-f04dd680-20a0-11e9-8b65-6573c745c78d.png)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
